@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/aluraflix-react/static/css/main.b41d4f52.css",
+    "main.js": "/aluraflix-react/static/js/main.a04d0142.js",
+    "static/media/banner-home.png": "/aluraflix-react/static/media/banner-home.21e633e1a5e71f139c0a.png",
+    "index.html": "/aluraflix-react/index.html",
+    "main.b41d4f52.css.map": "/aluraflix-react/static/css/main.b41d4f52.css.map",
+    "main.a04d0142.js.map": "/aluraflix-react/static/js/main.a04d0142.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b41d4f52.css",
+    "static/js/main.a04d0142.js"
+  ]
+}
